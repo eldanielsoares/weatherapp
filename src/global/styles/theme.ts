@@ -10,6 +10,7 @@ const colors = {
   primary: '#4871F7',
   secondary: '#848CCF',
   textPrimary: '#f1f1f1',
+  textSecondary: '#111111'
 };
 
 export { fonts, colors };
